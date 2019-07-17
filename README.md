@@ -1,4 +1,4 @@
-# Natural_Language_Processing
+# NLP
 Codes for NLP
 
 Natural Language Processing Projects - Text Classification With Perceptron, Language Modelling, Named Entity Recognition with the Structured
